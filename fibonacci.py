@@ -55,3 +55,5 @@ if __name__ == "__main__":
     print(f"Fibonacci number at index 8 is: {dp_fib_8}")
     dp_fib_50 = dp_fibonacci(50)
     print(f"Fibonacci number at index 50 is: {dp_fib_50}")
+    dp_fib_80 = dp_fibonacci(80)
+    print(f"Fibonacci number at index 80 is: {dp_fib_80}")
